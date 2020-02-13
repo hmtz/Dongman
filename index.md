@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-**花猫探长 ！！！**  <img align="right" src="1huamaotanzhang.png"/>
+**花猫探长 **  <img align="right" src="1huamaotanzhang.png" width="100" height="100"/>
 
 About
 -
